@@ -239,17 +239,22 @@ I'm a **Computer Science Engineering student** with a passion for solving real-w
 
 ---
 
-<div align="center">
-  
-### 📫 Get in Touch
+## 📞 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kumari_Tannu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kumari-tannu-938281295)
-[![Email](https://img.shields.io/badge/Email-krtannu2012%40gmail.com-red?style=flat-square&logo=gmail)](mailto:krtannu2012@gmail.com)
+<div align="center">
+<h3>Let's Build Something Amazing Together!</h3>
+  
+<a href="https://www.linkedin.com/in/kumari-tannu-938281295"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:krtannu2012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+
 
 </div>
 
 <div align="center">
-  
-_"Turning ideas into reality, one line of code at a time."_
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&fontSize=70&fontAlignY=40&text=Thank%20You&animation=twinkling"/>
+
+<h2>"Turning ideas into reality, one line of code at a time."</h2>
 
 </div>
