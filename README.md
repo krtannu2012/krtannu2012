@@ -16,7 +16,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&labelColor=FF7139)](https://github.com/krtannu?tab=repositories)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116)](https://leetcode.com/)
 
-<img src="https://komarev.com/ghpvc/?username=krtannu&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
 <br>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
