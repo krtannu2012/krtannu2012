@@ -245,7 +245,6 @@ I'm a **Computer Science Engineering student** with a passion for solving real-w
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kumari_Tannu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kumari-tannu-938281295)
 [![Email](https://img.shields.io/badge/Email-krtannu2012%40gmail.com-red?style=flat-square&logo=gmail)](mailto:krtannu2012@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-91420_83847-green?style=flat-square&logo=whatsapp)](tel:9142083847)
 
 </div>
 
