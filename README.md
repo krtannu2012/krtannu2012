@@ -202,11 +202,6 @@ I'm a **Computer Science Engineering student** with a passion for solving real-w
 
 ## 🔍 Currently Working On
 
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=krtannu&repo=AI-Resume-Builder&theme=radical&hide_border=true)](https://github.com/krtannu/AI-Resume-Builder)
-
-</div>
 
 <div align="center">
 <table>
