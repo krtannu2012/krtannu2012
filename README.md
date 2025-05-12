@@ -199,17 +199,6 @@ I'm a **Computer Science Engineering student** with a passion for solving real-w
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=krtannu&theme=radical&no-frame=true&no-bg=false&column=7" width="100%" alt="Trophy Stats"/>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=krtannu&show_icons=true&theme=radical&hide_border=true" alt="Tannu's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krtannu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krtannu&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ## 🔍 Currently Working On
 
